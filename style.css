@@ -59,13 +59,15 @@ padding-left:50px;}
 
 .button1{padding-left:50px;
     padding-top: 10px;
-    border-radius: 10px;}
+    border-radius: 10px;
+    }
 .order{padding:5px 5px;
     font-size: 20px;
     text-decoration: none;
     color: #f0f3f5;
     font-weight:700;
-    background-image: linear-gradient(rgb(108, 142, 175),rgb(9, 43, 77));}
+    background-image: linear-gradient(rgb(108, 142, 175),rgb(9, 43, 77));
+    box-shadow: 2px 2px 2px 2px #56cae7;}
 
 .img1{height: 80%;}
 
@@ -77,6 +79,7 @@ padding-left:50px;}
     text-decoration: none;
     color: #f0f3f5;
     font-weight:700;
+    box-shadow: 2px 2px 2px 2px #56cae7;
     background-image: linear-gradient(rgb(108, 142, 175),rgb(9, 43, 77));}
 .mid{background-image: url(images/bg2.jpg);
     background-size: 100%;
